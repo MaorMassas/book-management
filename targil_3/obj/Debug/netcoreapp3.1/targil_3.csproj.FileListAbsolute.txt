@@ -1,0 +1,140 @@
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.exe
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.deps.json
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.runtimeconfig.json
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.runtimeconfig.dev.json
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.pdb
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.csproj.AssemblyReference.cache
+C:\Users\rrr\Desktop\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrr\Desktop\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.AssemblyInfoInputs.cache
+C:\Users\rrr\Desktop\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.AssemblyInfo.cs
+C:\Users\rrr\Desktop\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.csproj.CoreCompileInputs.cache
+C:\Users\rrr\Desktop\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.csproj.CopyComplete
+C:\Users\rrr\Desktop\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.dll
+C:\Users\rrr\Desktop\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.pdb
+C:\Users\rrr\Desktop\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.genruntimeconfig.cache
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.exe
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.deps.json
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.runtimeconfig.json
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.runtimeconfig.dev.json
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\targil_3.pdb
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.csproj.AssemblyReference.cache
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.AssemblyInfoInputs.cache
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.AssemblyInfo.cs
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.csproj.CoreCompileInputs.cache
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.csproj.CopyComplete
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.dll
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.pdb
+C:\Users\rrr\Desktop\Middle East Studies and Information Sciences\year_2\AofP.cs\lesson 12\targil_3\targil_3\obj\Debug\netcoreapp3.1\targil_3.genruntimeconfig.cache
